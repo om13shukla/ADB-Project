@@ -1,0 +1,153 @@
+u002 into- Places-002.csv 
+No of Places found: 238
+No of Rows processed: 248216.0
+u003 into- Places-003.csv 
+No of Places found: 645
+No of Rows processed: 485226.0
+u004 into- Places-004.csv 
+No of Places found: 648
+No of Rows processed: 403329.0
+u005 into- Places-005.csv 
+No of Places found: 126
+No of Rows processed: 109046.0
+u006 into- Places-006.csv 
+No of Places found: 25
+No of Rows processed: 31830.0
+u007 into- Places-007.csv 
+No of Places found: 79
+No of Rows processed: 87217.0
+u008 into- Places-008.csv 
+No of Places found: 42
+No of Rows processed: 77910.0
+u009 into- Places-009.csv 
+No of Places found: 103
+No of Rows processed: 84616.0
+u010 into- Places-010.csv 
+No of Places found: 280
+No of Rows processed: 935576.0
+u011 into- Places-011.csv 
+No of Places found: 65
+No of Rows processed: 90803.0
+u012 into- Places-012.csv 
+No of Places found: 105
+No of Rows processed: 147092.0
+u013 into- Places-013.csv 
+No of Places found: 101
+No of Rows processed: 291181.0
+u014 into- Places-014.csv 
+No of Places found: 290
+No of Rows processed: 388213.0
+u015 into- Places-015.csv 
+No of Places found: 56
+No of Rows processed: 87736.0
+u016 into- Places-016.csv 
+No of Places found: 52
+No of Rows processed: 89272.0
+u017 into- Places-017.csv 
+No of Places found: 1244
+No of Rows processed: 1026178.0
+u018 into- Places-018.csv 
+No of Places found: 101
+No of Rows processed: 47279.0
+u019 into- Places-019.csv 
+No of Places found: 63
+No of Rows processed: 47824.0
+u020 into- Places-020.csv 
+No of Places found: 22
+No of Rows processed: 107537.0
+u021 into- Places-021.csv 
+No of Places found: 35
+No of Rows processed: 2385.0
+u022 into- Places-022.csv 
+No of Places found: 560
+No of Rows processed: 471437.0
+u023 into- Places-023.csv 
+No of Places found: 65
+No of Rows processed: 120350.0
+u024 into- Places-024.csv 
+No of Places found: 181
+No of Rows processed: 263481.0
+u025 into- Places-025.csv 
+No of Places found: 483
+No of Rows processed: 629895.0
+u026 into- Places-026.csv 
+No of Places found: 76
+No of Rows processed: 148411.0
+u027 into- Places-027.csv 
+No of Places found: 16
+No of Rows processed: 15508.0
+u028 into- Places-028.csv 
+No of Places found: 60
+No of Rows processed: 123828.0
+u029 into- Places-029.csv 
+No of Places found: 14
+No of Rows processed: 83844.0
+u030 into- Places-030.csv 
+No of Places found: 456
+No of Rows processed: 616299.0
+u031 into- Places-031.csv 
+No of Places found: 8
+No of Rows processed: 20412.0
+u032 into- Places-032.csv 
+No of Places found: 23
+No of Rows processed: 26468.0
+u033 into- Places-033.csv 
+No of Places found: 24
+No of Rows processed: 69974.0
+u034 into- Places-034.csv 
+No of Places found: 207
+No of Rows processed: 166669.0
+u035 into- Places-035.csv 
+No of Places found: 269
+No of Rows processed: 312041.0
+u036 into- Places-036.csv 
+No of Places found: 151
+No of Rows processed: 251973.0
+u037 into- Places-037.csv 
+No of Places found: 254
+No of Rows processed: 191324.0
+u038 into- Places-038.csv 
+No of Places found: 334
+No of Rows processed: 250393.0
+u039 into- Places-039.csv 
+No of Places found: 319
+No of Rows processed: 267737.0
+u040 into- Places-040.csv 
+No of Places found: 51
+No of Rows processed: 56013.0
+u041 into- Places-041.csv 
+No of Places found: 523
+No of Rows processed: 1057043.0
+u042 into- Places-042.csv 
+No of Places found: 204
+No of Rows processed: 239448.0
+u043 into- Places-043.csv 
+No of Places found: 87
+No of Rows processed: 96246.0
+u044 into- Places-044.csv 
+No of Places found: 74
+No of Rows processed: 76846.0
+u045 into- Places-045.csv 
+No of Places found: 8
+No of Rows processed: 9743.0
+u046 into- Places-046.csv 
+No of Places found: 10
+No of Rows processed: 21818.0
+u047 into- Places-047.csv 
+No of Places found: 6
+No of Rows processed: 790.0
+u048 into- Places-048.csv 
+No of Places found: 5
+No of Rows processed: 9076.0
+u049 into- Places-049.csv 
+No of Places found: 2
+No of Rows processed: 2614.0
+u050 into- Places-050.csv 
+No of Places found: 127
+No of Rows processed: 336859.0
+u051 into- Places-051.csv 
+No of Places found: 59
+No of Rows processed: 17019.0
+u052 into- Places-052.csv 
+No of Places found: 293
+No of Rows processed: 373045.0

@@ -1,0 +1,44 @@
+JAVA PROGRAM- INFO {Folder=Java-files}
+{
+1. FileUtility1.java: Takes parant directory as an input and creates files 
+			in the same parant directory combining all .plt files and 
+			converting them into .CSV
+
+		       It is also the driver program which executes other classes, 
+			by uncomnting you can install that particular class.
+
+2. CreateSchema.java: Creates the given schema in the database.
+
+3. ExtraSpace.java(~LoadDB) : Java program to load the CSV files into the database table, 
+			File name matching the table {file:"001.csv" Table: "u001"} 
+			improvement over LoadDB.java to save space and make little faster
+
+4. FindPlaces.java: finds the significant locations given the threshold value.
+
+5. LatLong.java: Just a data object class to store the value of latutude, longitude and a val.
+		val can be used to correspond the centroids.
+
+
+6.ClusterPlaces: Clusters the places within the locations found in the step-1.
+		few of the clustering code was deleted and modified to test 
+		new algorithm using which we can avoid this 2nd step for serching within 
+		a cluster.
+
+
+}
+
+
+Folder: Clustered= This folder contains the clustered files, that the final processed data.
+		{To search within the cluster file use the FIND option and every time
+		try to find next "->" string.  }
+	
+Folder: Milestone-2=
+			-Contains all the 4 testcases with the results of 5 users.
+			-Snapshot contains the plottedt result of same testcases.
+ 			-Stats-52-users.txt: contains the statistics of the 
+				fisrt 52 users and their places
+
+Folder: Places-52: 
+			-Contains the all foud places from user-002 to the 
+				user-052
+
