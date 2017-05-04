@@ -53,16 +53,16 @@ Final Case: Radius = 0.6 miles: Finally the results are in the range seem optima
 
 ### Here is the output of a Java program used for analyzing.  
 
-User-012 having 105 places:
+User-012 having 105 No. of Clusters:  
 
 1 -> for 39.983297, 116.30968 No. of clustered Records=279  
 2 -> for 39.900747, 116.423935 No. of clustered Records=44  
 3 -> for 39.902361, 116.422527 No. of clustered Records=78  
 4 -> for 39.133291, 117.202803 No. of clustered Records=206  
 5 -> for 39.11936, 117.239708 No. of clustered Records=7  
-.
-.
-.
+.  
+.  
+.  
 89 -> for 39.987513, 116.317528 No. of clustered Records=14926  
 90 -> for 39.987658, 116.317589 No. of clustered Records=14974  
 91 -> for 39.989129, 116.31472 No. of clustered Records=13385  
@@ -83,7 +83,7 @@ User-012 having 105 places:
    
 
 
-References:
+References:  
  [1] Yu Zheng, Lizhu Zhang, Xing Xie, Wei-Ying Ma. Mining interesting locations and travel sequences from GPS trajectories. In Proceedings of International conference on World Wild Web (WWW 2009), Madrid Spain. ACM Press: 791-800.  
  [2] Yu Zheng, Quannan Li, Yukun Chen, Xing Xie, Wei-Ying Ma. Understanding Mobility Based on GPS Data. In Proceedings of ACM conference on Ubiquitous Computing (UbiComp 2008), Seoul, Korea. ACM Press: 312-321.   
 [3] Yu Zheng, Xing Xie, Wei-Ying Ma, GeoLife: A Collaborative Social Networking Service among User, location and trajectory. Invited paper, in IEEE Data Engineering Bulletin. 33, 2, 2010, pp. 32-40.  
